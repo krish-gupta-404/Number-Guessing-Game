@@ -35,5 +35,6 @@ The program randomly generates a number between **1 and 100**, and the player mu
 
 ---
 
-## 🔃 Further Updates
-- Limit the number of guesses
+## 🔃 Updates
+- v1 - Normal guessing
+- v2 - Limited the number of guesses
